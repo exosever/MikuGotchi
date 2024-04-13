@@ -157,21 +157,6 @@ CTRL + O to save, CTRL + X to close file.
 
 From this point on, the pwnagotchi is ready to display images instead of the default string.
 
-## :page_with_curl: Configuration
-From here, we will able configure the images for our custom Faces. So lets do that!
-
-Prepare the files, there are a total of `25`. I use images of size `128x45`. To make it easier, name the files according to the facial expression or emotion:
-> **_Default .png file names:_**  
-
-~~~
-LOOK_R, LOOK_L, LOOK_R_HAPPY, LOOK_L_HAPPY, SLEEP, SLEEP2, AWAKE, BORED, INTENSE, COOL, HAPPY, GRATEFUL, EXCITED, MOTIVATED, DEMOTIVATED, LONELY, SAD, ANGRY, FRIEND, BROKEN, DEBUG, UPLOAD, UPLOAD1, UPLOAD2, ICON, POSITION_X, POSITION_Y
-~~~
-
-Stop the pwnagotchi service, if its not:
-```console
-root@pwnagotchi:/# systemctl stop pwnagotchi
-```
-
 ### :flower_playing_cards: Upload Images
 Use `FileZilla` or any other method you know to upload your images to the `/custom-faces/` folder that was created earlier.
 
@@ -264,52 +249,3 @@ root@pwnagotchi:/# systemctl restart pwnagotchi
 ```
 
 Enjoy!
-
-## :writing_hand: How to Contribute?
-> This is an entirely open project that accepts contributions via pull requests, your name will be placed as an author. If you have any questions, please open an issue.
-1. Create a fork of this repository
-2. Create your theme following the pattern of the ones already posted
-3. Commit your changes in English
-4. Include a brief summary of what was added
-5. Submit your pull request
-
-## :triangular_flag_on_post: Whats Next?
-- [x] Update the docs for pwnagotchi `v1.5.5`
-- [ ] Buy new hardware
-- [ ] Mod for new forks (newer versions)
-
-
-## :pill: Troubleshooting
-- Check the log file, read and interpret:
-```console
-root@pwnagotchi:/# tail -f /var/log/pwnagotchi.log
-```
-- The logs may not be enough, so use:
-```console
-pi@pwnagotchi:~ $ sudo su
-root@pwnagotchi:/home/pi# systemctl stop pwnagotchi
-root@pwnagotchi:/home/pi# pwnagotchi
-```
-> With this command you directly run the pwnagotchi services and this way you can see what happens at run time, showing errors what does not appear in the log
-
-- Restore the backup files that we placed in `/files-backup/` and try again
-
-- If you don't have permission, try `chmod 777`
-
-- Make sure that **all entries related to the plugins** are indeed in the `config.toml` file
-
-- PM me [here](https://github.com/roodriiigooo/) 
-
-
-## :star: Discover another projects
-- [Fancygotchi](https://github.com/V0r-T3x/fancygotchi) by [V0r-T3x](https://github.com/V0r-T3x)
-
-
-## :tophat: Thank You ♥
-[Evilsocket](https://github.com/evilsocket/pwnagotchi) - [PersephoneKarnstein](https://github.com/PersephoneKarnstein) - [V0r-T3x](https://github.com/V0r-T3x) - [@demetrius_official](https://instagram.com/demetrius_official)
-
-## :sparkling_heart: Support Me 
-> If you like my work and want to support me, plz consider
-
-<a href="https://www.buymeacoffee.com/rodrigoo" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-5C3317?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" target="_blank"></a>
-<a href="https://www.paypal.com/donate/?business=RNSQFDU927P8A&no_recurring=0&item_name=Every+penny+donated+is+an+investment+not+only+in+me+but+also+in+fulfilling+dreams+and+creating+opportunities.&currency_code=BRL" target="_blank"><img src="https://img.shields.io/badge/Paypal%20%28BRL%29-4287f5?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" target="_blank"></a>
