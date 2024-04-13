@@ -3,53 +3,435 @@ This is a collection of 25 custom Miku faces for pwnagotchi.
 I am extremely new to github and unsure how the repos and .gits work. Any guidance on how to set this project up appropriately would be much appreciated. 
 
 ![Screenshot 2024-04-10 175718](https://github.com/exosever/MikuGotchi/assets/50787424/f89d7e76-db22-46f4-8d26-17521c793b66)
-LOOK_R ![LOOK_R](https://github.com/exosever/MikuGotchi/assets/50787424/e7dc4a60-f8b2-4e65-aeaf-64bc0d1620a1)
 
-LOOK_R_HAPPY ![LOOK_R_HAPPY](https://github.com/exosever/MikuGotchi/assets/50787424/e1aca46f-0ba1-4b64-b6b5-16d4f22e68c1)
+LOOK_R 
 
-LOOK_L_HAPPY ![LOOK_L_HAPPY](https://github.com/exosever/MikuGotchi/assets/50787424/c51bdb10-bc96-434d-a570-cbe8ebcf8aac)
+![LOOK_R](https://github.com/exosever/MikuGotchi/assets/50787424/e7dc4a60-f8b2-4e65-aeaf-64bc0d1620a1)
 
-LOOK_L ![LOOK_L](https://github.com/exosever/MikuGotchi/assets/50787424/087b04b0-8866-48e2-91f6-61f535ece2dc)
+LOOK_R_HAPPY 
 
-LONELY ![LONELY](https://github.com/exosever/MikuGotchi/assets/50787424/8338a515-b1c7-4417-b651-f0219089e919)
+![LOOK_R_HAPPY](https://github.com/exosever/MikuGotchi/assets/50787424/e1aca46f-0ba1-4b64-b6b5-16d4f22e68c1)
 
-INTENSE ![INTENSE](https://github.com/exosever/MikuGotchi/assets/50787424/d6b70de9-c72f-4549-870d-00fb087c7c68)
+LOOK_L_HAPPY 
 
-HAPPY ![HAPPY](https://github.com/exosever/MikuGotchi/assets/50787424/016971a7-f42c-4d1a-8d46-8b1551c2c4e2)
+![LOOK_L_HAPPY](https://github.com/exosever/MikuGotchi/assets/50787424/c51bdb10-bc96-434d-a570-cbe8ebcf8aac)
 
-GRATEFUL ![GRATEFUL](https://github.com/exosever/MikuGotchi/assets/50787424/8a1ab72d-e1f0-43b3-adb2-dedb20f27220)
+LOOK_L 
 
-FRIEND ![FRIEND](https://github.com/exosever/MikuGotchi/assets/50787424/8aeb6c53-f971-4a02-915a-267ac74a8bae)
+![LOOK_L](https://github.com/exosever/MikuGotchi/assets/50787424/087b04b0-8866-48e2-91f6-61f535ece2dc)
 
-EXCITED ![EXCITED](https://github.com/exosever/MikuGotchi/assets/50787424/a9a04eb8-f1e1-4cad-a634-3521ce1b0f6a)
+LONELY 
 
-DEMOTIVATED ![DEMOTIVATED](https://github.com/exosever/MikuGotchi/assets/50787424/7314ec85-f974-4ed6-9314-7cdc8f80c5ed)
+![LONELY](https://github.com/exosever/MikuGotchi/assets/50787424/8338a515-b1c7-4417-b651-f0219089e919)
 
-DEBUG ![DEBUG](https://github.com/exosever/MikuGotchi/assets/50787424/397bf982-c9fa-4129-95d5-de5f47e332a2)
+INTENSE 
 
-COOL ![COOL](https://github.com/exosever/MikuGotchi/assets/50787424/9752d95d-58dd-4868-aa53-3334ca77a5df)
+![INTENSE](https://github.com/exosever/MikuGotchi/assets/50787424/d6b70de9-c72f-4549-870d-00fb087c7c68)
 
-BROKEN ![BROKEN](https://github.com/exosever/MikuGotchi/assets/50787424/ca305f04-f97a-4a7b-adf7-617741468e53)
+HAPPY 
 
-BORED ![BORED](https://github.com/exosever/MikuGotchi/assets/50787424/1969fc9d-b0cc-4377-9220-6e8bed264cec)
+![HAPPY](https://github.com/exosever/MikuGotchi/assets/50787424/016971a7-f42c-4d1a-8d46-8b1551c2c4e2)
 
-AWAKE ![AWAKE](https://github.com/exosever/MikuGotchi/assets/50787424/e709807d-8fb7-4f05-8c80-f59ad0385301)
+GRATEFUL 
 
-ANGRY ![ANGRY](https://github.com/exosever/MikuGotchi/assets/50787424/b8b602f0-f186-4866-9688-870020b9ccd2)
+![GRATEFUL](https://github.com/exosever/MikuGotchi/assets/50787424/8a1ab72d-e1f0-43b3-adb2-dedb20f27220)
 
-UPLOAD2 ![UPLOAD2](https://github.com/exosever/MikuGotchi/assets/50787424/57eae613-e68d-4c02-9bd4-e458d8ff10be)
+FRIEND 
 
-UPLOAD1 ![UPLOAD1](https://github.com/exosever/MikuGotchi/assets/50787424/415ff0ea-87f4-4d00-98ab-8445140fc4ca)
+![FRIEND](https://github.com/exosever/MikuGotchi/assets/50787424/8aeb6c53-f971-4a02-915a-267ac74a8bae)
 
-UPLOAD ![UPLOAD](https://github.com/exosever/MikuGotchi/assets/50787424/8fd77954-6d7f-40cd-b557-5bbce0bedcc0)
+EXCITED 
 
-SMART ![SMART](https://github.com/exosever/MikuGotchi/assets/50787424/62dbed3d-3d9c-4b5e-8fe9-a61b142908f3)
+![EXCITED](https://github.com/exosever/MikuGotchi/assets/50787424/a9a04eb8-f1e1-4cad-a634-3521ce1b0f6a)
 
-SLEEP2 ![SLEEP2](https://github.com/exosever/MikuGotchi/assets/50787424/08d5c8b8-b89c-43d6-a03e-9e614a4f616a)
+DEMOTIVATED 
 
-SLEEP ![SLEEP](https://github.com/exosever/MikuGotchi/assets/50787424/1e04fe81-34b4-44c5-8076-6b5fd53efab7)
+![DEMOTIVATED](https://github.com/exosever/MikuGotchi/assets/50787424/7314ec85-f974-4ed6-9314-7cdc8f80c5ed)
 
-SAD ![SAD](https://github.com/exosever/MikuGotchi/assets/50787424/11ac13da-48b6-40a8-a8fc-9d7d2eb8e950)
+DEBUG 
 
-MOTIVATED ![MOTIVATED](https://github.com/exosever/MikuGotchi/assets/50787424/9c3d5b2a-e2dc-44fa-911a-17cf674c9446)
+![DEBUG](https://github.com/exosever/MikuGotchi/assets/50787424/397bf982-c9fa-4129-95d5-de5f47e332a2)
 
+COOL 
+
+![COOL](https://github.com/exosever/MikuGotchi/assets/50787424/9752d95d-58dd-4868-aa53-3334ca77a5df)
+
+BROKEN 
+
+![BROKEN](https://github.com/exosever/MikuGotchi/assets/50787424/ca305f04-f97a-4a7b-adf7-617741468e53)
+
+BORED 
+
+![BORED](https://github.com/exosever/MikuGotchi/assets/50787424/1969fc9d-b0cc-4377-9220-6e8bed264cec)
+
+AWAKE 
+
+![AWAKE](https://github.com/exosever/MikuGotchi/assets/50787424/e709807d-8fb7-4f05-8c80-f59ad0385301)
+
+ANGRY 
+
+![ANGRY](https://github.com/exosever/MikuGotchi/assets/50787424/b8b602f0-f186-4866-9688-870020b9ccd2)
+
+UPLOAD2 
+
+![UPLOAD2](https://github.com/exosever/MikuGotchi/assets/50787424/57eae613-e68d-4c02-9bd4-e458d8ff10be)
+
+UPLOAD1 
+
+![UPLOAD1](https://github.com/exosever/MikuGotchi/assets/50787424/415ff0ea-87f4-4d00-98ab-8445140fc4ca)
+
+UPLOAD
+
+![UPLOAD](https://github.com/exosever/MikuGotchi/assets/50787424/8fd77954-6d7f-40cd-b557-5bbce0bedcc0)
+
+SMART 
+
+![SMART](https://github.com/exosever/MikuGotchi/assets/50787424/62dbed3d-3d9c-4b5e-8fe9-a61b142908f3)
+
+SLEEP2 
+
+![SLEEP2](https://github.com/exosever/MikuGotchi/assets/50787424/08d5c8b8-b89c-43d6-a03e-9e614a4f616a)
+
+SLEEP 
+
+![SLEEP](https://github.com/exosever/MikuGotchi/assets/50787424/1e04fe81-34b4-44c5-8076-6b5fd53efab7)
+
+SAD 
+
+![SAD](https://github.com/exosever/MikuGotchi/assets/50787424/11ac13da-48b6-40a8-a8fc-9d7d2eb8e950)
+
+MOTIVATED 
+
+![MOTIVATED](https://github.com/exosever/MikuGotchi/assets/50787424/9c3d5b2a-e2dc-44fa-911a-17cf674c9446)
+
+
+
+## :heavy_exclamation_mark: Requirements
+First and foremost, keep in mind that you must meet this requirements:
+- A computer;
+- The pwnagotchi must already be [`v1.5.5`](https://github.com/evilsocket/pwnagotchi/releases/tag/v1.5.5) properly configured;
+- Perform a complete backup before making any modifications, including every file to be modified.
+
+> **Important**
+> The following steps were performed on a `Windows` computer using `PuTTY` as SSH client, `FileZilla` as FTP client and the pwnagotchi with a `Waveshare 2.13 V3 e-ink display` running on a `RPI0W`.
+>> If you will use it in another fork or hardware, please be aware that you might need to adapt what is shown here
+
+> **Note**
+> If the folder doesn't specify which screen it was tested on, assume the sprites are for the `waveshare_v3` and similar sizes
+
+> **Note**
+> Anyone can contribute by making a pull request.
+>> Don't limit yourself to just this article, feel free to create your own themes!
+
+> **Note**
+> This tutorial requires a minimum level of knowledge.
+
+> **Note**
+> If pwnagotchi updates automatically, this mod must be applied again.
+
+
+## :heavy_exclamation_mark::heavy_exclamation_mark:  Disclaimer
+> **Warning**
+> From **roodriiigooo**: The content here is free for use, but it doesn't mean you can use it however you want. No author or contributor assumes responsibility for the misuse of this device, project, or any component herein. The project and modifications were **developed solely for educational purposes**.
+> Any files, plugins or modifications of this project or original project found here should **not be sold**. In the case of use in open projects, videos or any form of dissemination, please remember to give credit to the repository ♥
+
+> **Warning**
+> Certain content may be protected by copyright, use with caution.
+
+
+## :bookmark_tabs: Get Started
+
+First, with the pwnagotchi connected to a computer in `MANU` mode, establish an SSH connection.
+
+Login as root:
+```console
+pi@pwnagotchi:~ $ sudo su
+root@pwnagotchi:/home/pi#
+root@pwnagotchi:/home/pi# whoami
+root
+```
+Navigate to root directory:
+```console
+root@pwnagotchi:/home/pi# cd /
+```
+Let's create two folders, one for backing up the files and another one to receive the custom faces:
+```console
+root@pwnagotchi:/# mkdir files-backup
+root@pwnagotchi:/# mkdir custom-faces
+```
+Now let's navigate to the folder that contains the files we're going to modify:
+```console
+root@pwnagotchi:/# cd /usr/local/lib/python3.7/dist-packages/pwnagotchi/ui
+```
+Stop the pwnagotchi service
+```console
+root@pwnagotchi:/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui# systemctl stop pwnagotchi
+```
+Here are the following files:
+```console
+root@pwnagotchi:/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui# ls
+components.py  faces.py  hw           __pycache__  view.py
+display.py     fonts.py  __init__.py  state.py     web
+```
+Now run the following command to make a backup of the first file:
+```console
+root@pwnagotchi:/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui# cp faces.py /files-backup/
+```
+Open the file using nano:
+```console
+root@pwnagotchi:/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui# nano faces.py
+```
+Add these attributes to the code, resulting in the following:
+```python
+...
+UPLOAD1 = '(1__1)'
+UPLOAD2 = '(0__1)'
+PNG = False
+POSITION_X = 0
+POSITION_Y = 40
+
+def load_from_config(config):
+    for face_name, face_value in config.items():
+        globals()[face_name.upper()] = face_value
+...
+```
+CTRL + O to save, CTRL + X to close file.
+
+Now let's move on to the next file. Backup first, then edit:
+```console
+root@pwnagotchi:/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui# cp components.py /files-backup/
+root@pwnagotchi:/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui# nano components.py
+```
+Locate this code snippet:
+```python
+class Text(Widget):
+    def __init__(self, value="", position=(0, 0), font=None, color=0, wrap=False, max_length=0):
+        super().__init__(position, color)
+        self.value = value
+        self.font = font
+        self.wrap = wrap
+        self.max_length = max_length
+        self.wrapper = TextWrapper(width=self.max_length, replace_whitespace=False) if wrap else None
+
+    def draw(self, canvas, drawer):
+        if self.value is not None:
+            if self.wrap:
+                text = '\n'.join(self.wrapper.wrap(self.value))
+            else:
+                text = self.value
+            drawer.text(self.xy, text, font=self.font, fill=self.color)
+```
+Now replace with:
+```python
+class Text(Widget):
+    def __init__(self, value="", position=(0, 0), font=None, color=0, wrap=False, max_length=0, png=False):
+        super().__init__(position, color)
+        self.value = value
+        self.font = font
+        self.wrap = wrap
+        self.max_length = max_length
+        self.wrapper = TextWrapper(width=self.max_length, replace_whitespace=False) if wrap else None
+        self.png = png
+
+    def draw(self, canvas, drawer):
+        if self.value is not None:
+            if not self.png:
+                if self.wrap:
+                    text = '\n'.join(self.wrapper.wrap(self.value))
+                else:
+                    text = self.value
+                drawer.text(self.xy, text, font=self.font, fill=self.color)
+            else:
+                self.image = Image.open(self.value)
+                self.image = self.image.convert('RGBA')
+                self.pixels = self.image.load()
+                for y in range(self.image.size[1]):
+                    for x in range(self.image.size[0]):
+                        if self.pixels[x,y][3] < 255:    # check alpha
+                            self.pixels[x,y] = (255, 255, 255, 255)
+                if self.color == 255:
+                    self._image = ImageOps.colorize(self.image.convert('L'), black = "white", white = "black")
+                else:
+                    self._image = self.image
+                self.image = self._image.convert('1')
+                canvas.paste(self.image, self.xy)
+```
+CTRL + O to save, CTRL + X to close file.
+
+Now let's move on to the next file. Once again, backup first and then edit:
+```console
+root@pwnagotchi:/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui# cp view.py /files-backup/
+root@pwnagotchi:/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui# nano view.py
+```
+Replace this one: 
+```python
+...
+            'face': Text(value=faces.SLEEP, position=self._layout['face'], color=BLACK, font=fonts.Huge),
+...
+```
+With that:
+```python
+...
+	    'face': Text(value=faces.SLEEP, position=(config['ui']['faces']['position_x'], config['ui']['faces']['position_y']), color=BLACK, font=fonts.Huge, png=config['ui']['faces']['png']),
+...
+```
+CTRL + O to save, CTRL + X to close file.
+
+From this point on, the pwnagotchi is ready to display images instead of the default string.
+
+## :page_with_curl: Configuration
+From here, we will able configure the images for our custom Faces. So lets do that!
+
+Prepare the files, there are a total of `25`. I use images of size `128x45`. To make it easier, name the files according to the facial expression or emotion:
+> **_Default .png file names:_**  
+
+~~~
+LOOK_R, LOOK_L, LOOK_R_HAPPY, LOOK_L_HAPPY, SLEEP, SLEEP2, AWAKE, BORED, INTENSE, COOL, HAPPY, GRATEFUL, EXCITED, MOTIVATED, DEMOTIVATED, LONELY, SAD, ANGRY, FRIEND, BROKEN, DEBUG, UPLOAD, UPLOAD1, UPLOAD2, ICON, POSITION_X, POSITION_Y
+~~~
+
+Stop the pwnagotchi service, if its not:
+```console
+root@pwnagotchi:/# systemctl stop pwnagotchi
+```
+
+### :flower_playing_cards: Upload Images
+Use `FileZilla` or any other method you know to upload your images to the `/custom-faces/` folder that was created earlier.
+
+> **Note**
+> If you don't have it, use one of my theme packages from [here](#art-themes-list)
+
+Open the pwnagotchi's configuration file:
+```console
+root@pwnagotchi:/# nano /etc/pwnagotchi/config.toml
+```
+Locate this code snippet:
+```python
+...
+ui.faces.look_r = "( ⚆_⚆)"
+ui.faces.look_l = "(☉_☉ )"
+ui.faces.look_r_happy = "( ◕‿◕)"
+ui.faces.look_l_happy = "(◕‿◕ )"
+ui.faces.sleep = "(⇀‿‿↼)"
+ui.faces.sleep2 = "(≖‿‿≖)"
+ui.faces.awake = "(◕‿‿◕)"
+ui.faces.bored = "(-__-)"
+ui.faces.intense = "(°▃▃°)"
+ui.faces.cool = "(⌐■_■)"
+ui.faces.happy = "(•‿‿•)"
+ui.faces.excited = "(ᵔ◡◡ᵔ)"
+ui.faces.grateful = "(^‿‿^)"
+ui.faces.motivated = "(☼‿‿☼)"
+ui.faces.demotivated = "(≖__≖)"
+ui.faces.smart = "(✜‿‿✜)"
+ui.faces.lonely = "(ب__ب)"
+ui.faces.sad = "(╥☁╥ )"
+ui.faces.angry = "(-_-')"
+ui.faces.friend = "(♥‿‿♥)"
+ui.faces.broken = "(☓‿‿☓)"
+ui.faces.debug = "(#__#)"
+ui.faces.upload = "(1__0)"
+ui.faces.upload1 = "(1__1)"
+ui.faces.upload2 = "(0__1)"
+...
+```
+
+This snippet will be responsible for enabling our customization. If it doesn't exist, you can add it.
+
+Add the new entries pointing to the folder where the images were placed, set the position where the custom Face will be displayed and set the activation flag to `True`.
+
+```python
+...
+ui.faces.look_r = "/custom-faces/LOOK_R.png"
+ui.faces.look_l = "/custom-faces/LOOK_L.png"
+ui.faces.look_r_happy = "/custom-faces/LOOK_R_HAPPY.png"
+ui.faces.look_l_happy = "/custom-faces/LOOK_L_HAPPY.png"
+ui.faces.sleep = "/custom-faces/SLEEP.png"
+ui.faces.sleep2 = "/custom-faces/SLEEP2.png"
+ui.faces.awake = "/custom-faces/AWAKE.png"
+ui.faces.bored = "/custom-faces/BORED.png"
+ui.faces.intense = "/custom-faces/INTENSE.png"
+ui.faces.cool = "/custom-faces/COOL.png"
+ui.faces.happy = "/custom-faces/HAPPY.png"
+ui.faces.excited = "/custom-faces/EXCITED.png"
+ui.faces.grateful = "/custom-faces/GRATEFUL.png"
+ui.faces.motivated = "/custom-faces/MOTIVATED.png"
+ui.faces.demotivated = "/custom-faces/DEMOTIVATED.png"
+ui.faces.smart = "/custom-faces/SMART.png"
+ui.faces.lonely = "/custom-faces/LONELY.png"
+ui.faces.sad = "/custom-faces/SAD.png"
+ui.faces.angry = "/custom-faces/ANGRY.png"
+ui.faces.friend = "/custom-faces/FRIEND.png"
+ui.faces.broken = "/custom-faces/BROKEN.png"
+ui.faces.debug = "/custom-faces/DEBUG.png"
+ui.faces.upload = "/custom-faces/UPLOAD.png"
+ui.faces.upload1 = "/custom-faces/UPLOAD1.png"
+ui.faces.upload2 = "/custom-faces/UPLOAD2.png"
+ui.faces.png = true
+ui.faces.position_x = 0
+ui.faces.position_y = 34
+...
+```
+
+> **Note**
+> **_1:_** Check if your installed plugins modify the 'faces'. If there are any, replace them with the equivalent custom image address. If you don't do this, the pwnagotchi may crash. The code looks like this: `ui.set('face', "(◕‿‿◕)")` or `view.set('face', "(◕‿‿◕)")`
+
+> **Note**
+> **_2:_** I recommend that you always use the same path (`/custom-faces/` folder) for your customization. That way, it becomes easier as you only need to replace the files!
+
+CTRL + O to save, CTRL + X to close file.
+
+Restart your device
+```console
+root@pwnagotchi:/# systemctl restart pwnagotchi
+```
+
+Enjoy!
+
+## :writing_hand: How to Contribute?
+> This is an entirely open project that accepts contributions via pull requests, your name will be placed as an author. If you have any questions, please open an issue.
+1. Create a fork of this repository
+2. Create your theme following the pattern of the ones already posted
+3. Commit your changes in English
+4. Include a brief summary of what was added
+5. Submit your pull request
+
+## :triangular_flag_on_post: Whats Next?
+- [x] Update the docs for pwnagotchi `v1.5.5`
+- [ ] Buy new hardware
+- [ ] Mod for new forks (newer versions)
+
+
+## :pill: Troubleshooting
+- Check the log file, read and interpret:
+```console
+root@pwnagotchi:/# tail -f /var/log/pwnagotchi.log
+```
+- The logs may not be enough, so use:
+```console
+pi@pwnagotchi:~ $ sudo su
+root@pwnagotchi:/home/pi# systemctl stop pwnagotchi
+root@pwnagotchi:/home/pi# pwnagotchi
+```
+> With this command you directly run the pwnagotchi services and this way you can see what happens at run time, showing errors what does not appear in the log
+
+- Restore the backup files that we placed in `/files-backup/` and try again
+
+- If you don't have permission, try `chmod 777`
+
+- Make sure that **all entries related to the plugins** are indeed in the `config.toml` file
+
+- PM me [here](https://github.com/roodriiigooo/) 
+
+
+## :star: Discover another projects
+- [Fancygotchi](https://github.com/V0r-T3x/fancygotchi) by [V0r-T3x](https://github.com/V0r-T3x)
+
+
+## :tophat: Thank You ♥
+[Evilsocket](https://github.com/evilsocket/pwnagotchi) - [PersephoneKarnstein](https://github.com/PersephoneKarnstein) - [V0r-T3x](https://github.com/V0r-T3x) - [@demetrius_official](https://instagram.com/demetrius_official)
+
+## :sparkling_heart: Support Me 
+> If you like my work and want to support me, plz consider
+
+<a href="https://www.buymeacoffee.com/rodrigoo" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-5C3317?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" target="_blank"></a>
+<a href="https://www.paypal.com/donate/?business=RNSQFDU927P8A&no_recurring=0&item_name=Every+penny+donated+is+an+investment+not+only+in+me+but+also+in+fulfilling+dreams+and+creating+opportunities.&currency_code=BRL" target="_blank"><img src="https://img.shields.io/badge/Paypal%20%28BRL%29-4287f5?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" target="_blank"></a>
